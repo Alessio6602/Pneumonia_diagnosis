@@ -5,7 +5,8 @@ Questa repository contiene il progetto di tesi svolto da Alessio Gatto, presso l
 
 ## Dataset
 Il dataset utilizzato è presente sul sito Kaggle col nome di ChestXRay2017, scaricabile dal seguente link: https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images/data
-Alternativamente è possibile utilizzare la versione ridotta del dataset utilizzata durante gli esperimenti direttamente dalla repository.
+
+Alternativamente è possibile scaricare la versione ridotta del dataset utilizzata durante gli esperimenti dal seguente link: https://drive.google.com/drive/folders/1VBgbTsW4j6qn_LOLlvKmjzYC3PsdM419?usp=drive_link .
 ## Setup
 Salvare il dataset sul drive con il nome ChestXRay2017, e creare al suo interno. se non presente, una cartella "val" con all'interno due cartelle: "PNEUMONIA" e "NORMAL".
 
